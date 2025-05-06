@@ -1,2 +1,1 @@
-# flood_detection_ban
-The Repo containing progress files for Artificial Intelligence and Climate Change course.
+# Mapping Agricultural Flood Damage in Bangladesh Using Machine Learning and Satellite Imagery
